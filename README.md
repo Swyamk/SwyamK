@@ -15,4 +15,6 @@ Hi there, I'm Swayam Kumar 👋<br>I'm a passionate web developer and a third-ye
 ---
 [![](https://visitcount.itsvg.in/api?id=Swyamk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @swyamk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swyamk)](https://holopin.io/@swyamk)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
